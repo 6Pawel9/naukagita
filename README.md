@@ -7,6 +7,9 @@
 - [x] zaznacz mnie (???)
 - [ ] nie zaznaczaj
 - [x] co to jest ?
+- [x] zaznacz mnie (???)
+- [ ] nie zaznaczaj
+- [x] co to jest ?
 
 Za | Przeciw
 ------------ | -------------
