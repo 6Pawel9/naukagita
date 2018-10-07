@@ -14,3 +14,6 @@ Za | Przeciw
 I test | II - test
 III test | IV testZa | Przeciw
 ------------ | -------------
+
+
+/..........
