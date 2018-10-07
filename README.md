@@ -7,23 +7,10 @@
 - [x] zaznacz mnie (???)
 - [ ] nie zaznaczaj
 - [x] co to jest ?
-- [x] zaznacz mnie (???)
-- [ ] nie zaznaczaj
-- [x] co to jest ?
+
 
 Za | Przeciw
 ------------ | -------------
 I test | II - test
 III test | IV testZa | Przeciw
 ------------ | -------------
-I test | II - test
-III test | IV testZa | Przeciw
------------- | -------------
-I test | II - test
-III test | IV testZa | Przeciw
------------- | -------------
-I test | II - test
-III test | IV testZa | Przeciw
------------- | -------------
-I test | II - test
-III test | IV test
